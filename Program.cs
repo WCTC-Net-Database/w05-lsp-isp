@@ -1,9 +1,9 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using W5_assignment_template.Interfaces;
-using W5_assignment_template.Models;
-using W5_assignment_template.Services;
+using W05.Interfaces;
+using W05.Models;
+using W05.Services;
 
-namespace W5_assignment_template
+namespace W05
 {
     class Program
     {

@@ -1,7 +1,7 @@
-using W5_assignment_template.Interfaces;
-using W5_assignment_template.Models;
+using W05.Interfaces;
+using W05.Models;
 
-namespace W5_assignment_template.Services
+namespace W05.Services
 {
     /// <summary>
     /// GameEngine demonstrates the Liskov Substitution Principle (LSP)

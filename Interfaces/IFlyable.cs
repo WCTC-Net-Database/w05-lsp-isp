@@ -1,4 +1,4 @@
-﻿namespace W5_assignment_template.Interfaces
+﻿namespace W05.Interfaces
 {
     public interface IFlyable
     {

@@ -1,6 +1,6 @@
-﻿using W5_assignment_template.Interfaces;
+﻿using W05.Interfaces;
 
-namespace W5_assignment_template.Models;
+namespace W05.Models;
 
 public class Character : IEntity
 {
